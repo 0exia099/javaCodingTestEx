@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e807b744-53bb-46fc-a070-052139421378" name="Changes" comment="비트 연산자 실습&#10;&#10;비트 연산자 실습 코드">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/StringEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/StringEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/StringEx4.java" afterDir="false" />
+    <list default="true" id="e807b744-53bb-46fc-a070-052139421378" name="Changes" comment="문자열 실습&#10;&#10;문자열 실습 코드">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch3/RegularExpressionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch3/RegularExpressionEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch3/RegularExpressionEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch3/RegularExpressionEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch3/RegularExpressionEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch4/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch4/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch4/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch5/RecursionEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch2/StringEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch2/StringEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +48,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch4" />
+      <recent name="ch3" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -97,7 +107,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706745937139</updated>
-      <workItem from="1706745938788" duration="9963000" />
+      <workItem from="1706745938788" duration="21871000" />
+      <workItem from="1706832045915" duration="399000" />
     </task>
     <task id="LOCAL-00001" summary="비트 연산자 실습&#10;&#10;비트 연산자 실습 코드">
       <created>1706753451391</created>
@@ -106,14 +117,33 @@
       <option name="project" value="LOCAL" />
       <updated>1706753451391</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="문자열 실습&#10;&#10;문자열 실습 코드">
+      <created>1706760226949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706760226949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="비트 연산자 실습&#10;&#10;비트 연산자 실습 코드" />
-    <option name="LAST_COMMIT_MESSAGE" value="비트 연산자 실습&#10;&#10;비트 연산자 실습 코드" />
+    <MESSAGE value="문자열 실습&#10;&#10;문자열 실습 코드" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열 실습&#10;&#10;문자열 실습 코드" />
   </component>
 </project>
